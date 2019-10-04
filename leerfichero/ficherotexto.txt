@@ -1,0 +1,4 @@
+FIchero de ejemplo
+segunda linea
+
+Esta es la tercera fila del fichero

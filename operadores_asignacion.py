@@ -1,0 +1,11 @@
+numero = 5
+#numero = numero + 4 es igual a:
+numero += 4
+#numero = numero - 4 es igual a:
+numero -= 4
+#numero = numero * 4 es igual a:
+numero *= 4
+#numero = numero / 4 es igual a:
+numero /= 4
+#Exponente-numero = numero ** 4 es igual a:
+numero **= 4
